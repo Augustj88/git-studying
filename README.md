@@ -1,2 +1,2 @@
-# kimchi-recipe-os
-누구나 PR 할 수 있는 김치 요리법 프로젝트
+# Git practice
+git연습을 위한 레포지토리
